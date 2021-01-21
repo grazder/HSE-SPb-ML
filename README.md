@@ -21,3 +21,8 @@ My homework solutions for Machine Learning
 ## Homework 4. Perceptron
     1) Simpler perceptron
     2) Pocket Perceptron
+    
+## Homework 5. Neural Network
+    1) Linear, ReLU, Softmax Layers
+    2) MLPClassifier
+    3) Pytorch CNN for CIFAR10
