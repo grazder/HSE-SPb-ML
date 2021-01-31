@@ -26,3 +26,7 @@ My homework solutions for Machine Learning
     1) Linear, ReLU, Softmax Layers
     2) MLPClassifier
     3) Pytorch CNN for CIFAR10
+    
+## Homework 6. GAN
+    1) DCGAN
+    2) VAE
