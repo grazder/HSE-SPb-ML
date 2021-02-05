@@ -30,3 +30,7 @@ My homework solutions for Machine Learning
 ## Homework 6. GAN
     1) DCGAN
     2) VAE
+    
+## Homework 7. SVM
+    1) Linear SVM
+    2) Kernel SVM
