@@ -34,3 +34,6 @@ My homework solutions for Machine Learning
 ## Homework 7. SVM
     1) Linear SVM
     2) Kernel SVM
+
+## Homework 8. Decision Tree
+    1) Decision Tree
