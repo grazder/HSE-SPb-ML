@@ -37,3 +37,7 @@ My homework solutions for Machine Learning
 
 ## Homework 8. Decision Tree
     1) Decision Tree
+
+## Homework 9. Random Forest
+    1) Random Forest
+    2) Catboost
