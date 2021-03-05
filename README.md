@@ -41,3 +41,8 @@ My homework solutions for Machine Learning
 ## Homework 9. Random Forest
     1) Random Forest
     2) Catboost
+
+## Homework 10. Naive Bayes
+    1) Naive Bayes
+    2) Bag-of-words
+    3) Bag-of-words with stemming
