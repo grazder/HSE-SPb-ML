@@ -46,3 +46,7 @@ My homework solutions for Machine Learning
     1) Naive Bayes
     2) Bag-of-words
     3) Bag-of-words with stemming
+
+## Homework 11. Stochastic stranding
+    1) HillClimb for Salesman Problem
+    1) Genetic Alghorithm for Salesman Problem
